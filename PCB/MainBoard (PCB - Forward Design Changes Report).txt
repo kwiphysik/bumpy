@@ -1,0 +1,30 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Wednesday, April 26, 2017
+Project Path:       C:\gitworkspace\bumpy\PCB\Bumpy.prj
+Design Path:        C:\gitworkspace\bumpy\PCB\MainBoard.pcb
+Design Title:       
+Created:            29.04.2016 17:29:22
+Last Saved:         26.04.2017 13:52:12
+Editing Time:       362 min
+Units:              thou (precision 0)
+
+Disconnected pin "IC2-1" from net "VBat".
+Disconnected pin "IC2-8" from net "VBat".
+Disconnected pin "IC2-9" from net "VBat".
+Disconnected pin "IC2-16" from net "VBat".
+Disconnected pin "C4-1" from net "VBat".
+Disconnected pin "C5-1" from net "VBat".
+
+Deleted net "VBat".
+
+Connected pin "IC2-1" to net "+5V".
+Connected pin "IC2-8" to net "+5V".
+Connected pin "IC2-9" to net "+5V".
+Connected pin "IC2-16" to net "+5V".
+Connected pin "C4-1" to net "+5V".
+Connected pin "C5-1" to net "+5V".
+
+
+End Of Report.
