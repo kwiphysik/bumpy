@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Friday, April 28, 2017
+Project Path:       C:\gitworkspace\bumpy\PCB\Bumpy.prj
+Design Path:        C:\gitworkspace\bumpy\PCB\MainBoard.pcb
+Design Title:       
+Created:            29.04.2016 17:29:22
+Last Saved:         28.04.2017 16:13:11
+Editing Time:       521 min
+Units:              thou (precision 0)
+
+
+End Of Report.

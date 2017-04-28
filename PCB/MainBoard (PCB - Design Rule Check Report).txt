@@ -1,0 +1,75 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Friday, April 28, 2017
+Project Path:       C:\gitworkspace\bumpy\PCB\Bumpy.prj
+Design Path:        C:\gitworkspace\bumpy\PCB\MainBoard.pcb
+Design Title:       
+Created:            29.04.2016 17:29:22
+Last Saved:         28.04.2017 16:13:11
+Editing Time:       522 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+Dangling Track from (8850,9806) to (8850,9810) on layer Top Copper
+Dangling Track from (7860,9820) to (7860,9840) on layer Top Copper
+Dangling Track from (12860,9140) to (12870,9120) on layer Top Copper
+Dangling Track from (12860,9130) to (12870,9120) on layer Top Copper
+Dangling Track from (8740,9816) to (8750,9806) on layer Top Copper
+Dangling Track from (8750,9992) to (8759,10000) on layer Top Copper
+Dangling Track from (9050,9494) to (9050,9450) on layer Bottom Copper
+Dangling Track from (9150,9494) to (9150,9490) on layer Bottom Copper
+Dangling Track from (10740,10030) to (10730,10040) on layer Top Copper
+Dangling Track from (10730,10040) to (10720,10030) on layer Top Copper
+Dangling Track from (11500,9480) to (11500,9504) on layer Top Copper
+
+Number of errors found : 11
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
