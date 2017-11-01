@@ -16,12 +16,12 @@ void delay(uint16_t ms)
     for(; ms>0; ms--) _delay_ms(1);
 }
 
-uint8_t PINARR[] = {PD5,PD6,PD7,PB0,PB1,PB2,PB3,PB4};
+uint8_t PINARR[] = {PD2,PD3,PD5,PD6,PD7,PB0,PB1,PB2,PB3,PB4};
 #define OUTPUT 1
 #define INPUT_PULLUP 2
 void pinMode(uint8_t pin, uint8_t mode)
 {
-	if(pin > 7)
+	if(pin > 9)
 	{
 		if(mode == OUTPUT)
 			DDRB |= (1 << PINARR[pin-5]);
@@ -41,7 +41,7 @@ void pinMode(uint8_t pin, uint8_t mode)
 #define LOW 0x0
 void digitalWrite(uint8_t pin, uint8_t val)
 {
-	if(pin > 7)
+	if(pin > 9)
 	{
 		if(val == HIGH)
 			PORTB  |= (1 << PINARR[pin-5]);
@@ -59,7 +59,7 @@ void digitalWrite(uint8_t pin, uint8_t val)
 
 int digitalRead(uint8_t pin)
 {
-	if(pin > 7)
+	if(pin > 9)
 	{
 		if(PINB & (1 << PINARR[pin-5]))
 			return HIGH;
@@ -76,14 +76,14 @@ int digitalRead(uint8_t pin)
 }
 
 // Pinzuweisung
-#define MOTOR1_PIN_A 6
-#define MOTOR1_PIN_B 5
-#define MOTOR2_PIN_A 7
-#define MOTOR2_PIN_B 8
-#define SWITCH1_PIN  9
-#define SWITCH2_PIN 10
-#define LED1_PIN 12
-#define LED2_PIN 11
+#define MOTOR1_PIN_A 8
+#define MOTOR1_PIN_B 7
+#define MOTOR2_PIN_A 9
+#define MOTOR2_PIN_B 10
+#define SWITCH1_PIN  11
+#define SWITCH2_PIN 12
+#define LED1_PIN 6
+#define LED2_PIN 5
 
 
 
