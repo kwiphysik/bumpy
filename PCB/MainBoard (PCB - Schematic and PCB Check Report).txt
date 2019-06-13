@@ -1,18 +1,18 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Wednesday, April 26, 2017
-Project Path:       C:\gitworkspace\bumpy\PCB\Bumpy.prj
-Design Path:        C:\gitworkspace\bumpy\PCB\MainBoard.pcb
+Report Written:     Thursday, June 13, 2019
+Project Path:       C:\workspace\bumpy\PCB\Bumpy.prj
+Design Path:        C:\workspace\bumpy\PCB\MainBoard.pcb
 Design Title:       
 Created:            29.04.2016 17:29:22
-Last Saved:         26.04.2017 13:54:34
-Editing Time:       387 min
+Last Saved:         13.06.2019 21:27:05
+Editing Time:       553 min
 Units:              thou (precision 0)
 
 
-Checking integrity of Schematic "C:\gitworkspace\bumpy\PCB\MainBoard.sch" with PCB "C:\gitworkspace\bumpy\PCB\MainBoard.pcb"
-============================================================================================================================
+Checking integrity of Schematic "C:\workspace\bumpy\PCB\MainBoard.sch" with PCB "C:\workspace\bumpy\PCB\MainBoard.pcb"
+======================================================================================================================
 
 The designs are the same.
 

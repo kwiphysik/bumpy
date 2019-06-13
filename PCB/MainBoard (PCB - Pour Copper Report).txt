@@ -1,13 +1,13 @@
 Pour Copper Report
 ------------------
 
-Report Written:     Friday, April 28, 2017
-Project Path:       C:\gitworkspace\bumpy\PCB\Bumpy.prj
-Design Path:        C:\gitworkspace\bumpy\PCB\MainBoard.pcb
+Report Written:     Thursday, June 13, 2019
+Project Path:       C:\workspace\bumpy\PCB\Bumpy.prj
+Design Path:        C:\workspace\bumpy\PCB\MainBoard.pcb
 Design Title:       
 Created:            29.04.2016 17:29:22
-Last Saved:         28.04.2017 16:13:11
-Editing Time:       521 min
+Last Saved:         13.06.2019 21:18:25
+Editing Time:       539 min
 Units:              thou (precision 0)
 
 
